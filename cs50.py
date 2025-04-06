@@ -22,3 +22,6 @@ def requestFeeling():
     else:
         print("Invalid input. Please choose either sad/happy/neutral/angry")
         requestFeeling()
+
+requestName()
+requestFeeling()
