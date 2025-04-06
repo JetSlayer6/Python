@@ -7,7 +7,7 @@ def requestName():
     print(f"Hello, {name}.")
 def requestFeeling():
     try:
-        feeling = input.lower("How are you feeling today: Sad/Happy/Neutral/Angry")
+        feeling = input("How are you feeling today: Sad/Happy/Neutral/Angry ")
     except TypeError:
         print("Cannot use an integer as a feeling.")
         requestFeeling()
