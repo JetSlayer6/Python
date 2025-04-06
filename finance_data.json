@@ -1,0 +1,34 @@
+{
+    "transactions": [
+        {
+            "date": "2025-03-15",
+            "description": "",
+            "amount": 1.0,
+            "type": "Income",
+            "category": "Income"
+        },
+        {
+            "date": "2025-03-15",
+            "description": "Applications",
+            "amount": 125.0,
+            "type": "Expense",
+            "category": "Applications"
+        },
+        {
+            "date": "2025-03-15",
+            "description": "Utilities",
+            "amount": 230.0,
+            "type": "Expense",
+            "category": "Utilities"
+        }
+    ],
+    "categories": [
+        "Food",
+        "Transportation",
+        "Housing",
+        "Entertainment",
+        "Utilities",
+        "Applications",
+        "Other"
+    ]
+}

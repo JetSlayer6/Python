@@ -1,0 +1,17 @@
+{
+    "Ko Z": {
+        "games_played": 11,
+        "games_won": 10,
+        "games_lost": 1,
+        "best_score": 1475,
+        "total_score": 12079,
+        "favorite_category": "cars",
+        "last_played": "2025-03-15 09:08:08",
+        "highest_streak": 10,
+        "current_streak": 0,
+        "category_counts": {
+            "cars": 9,
+            "countries": 2
+        }
+    }
+}
