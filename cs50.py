@@ -51,7 +51,7 @@ while True:
             print(f"Name: {name}.")
             print(f"Age: {age}.")
             print(f"Sex: {sex}.")
-            print("That's all I can do at the moment. If you want to add more code, please visit: ")
+            print("That's all I can do at the moment. If you want to add more code, please visit: https://github.com/JetSlayer6/Python/blob/main/cs50.py and make any changes you would like!")
         elif requestPortfolio == "no":
             print("Thanks for using me!")
         else:
